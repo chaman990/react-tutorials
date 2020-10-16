@@ -1,0 +1,1 @@
+export const baseURL = 'http://localhost/react-tutorials/src/api/';
